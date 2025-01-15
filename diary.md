@@ -7,3 +7,5 @@
 + first i tryed to make the exit object appear but id did not work and then everything broke down, the Maincharakter was gone as well as all animals, had to start again
 + I was able to recover the mainacharacter and the exit ist working but just when a sprite is used :(
 + I started with my pixelart so that I don't get to fustrated
+
+  15.01.2024
