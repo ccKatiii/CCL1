@@ -9,3 +9,7 @@
 + I started with my pixelart so that I don't get to fustrated
 
   15.01.2024
+  + So I tied following in a youtub tutorial an complitly destroyed my code
+  + I am back at where i was before
+  + now all the objects are on canvas
+  + started with the collision function/logic
