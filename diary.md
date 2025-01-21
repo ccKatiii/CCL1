@@ -21,17 +21,30 @@
 + After that Lukas helped me with the inventory and gave me an idea how to do it easier
 + The animals are now teleporting from there original placement to the inventorybar and are not stacking over each other but getting placed next to each other
 
-17.01.2025
+17.01.2025 *doing this from memory for further info look at entire 21.01.2025*
 + I sarted to try with the breeding machine logic but i got fustrated and started bug fixing, because sometimes my screen just would load, but i again failed
 + so I descided to continue with my pixel rate, i am still trying to make my own tile set for an easier map/ canvas and boarders
 + i went home early to day because somehow everything I try failed
 
-18.01.2025
-+Its the weekend but we are still husteling, i started again with the bug fixing, 
+18.01.2025*doing this from memory for further info look at entire 21.01.2025*
++ Its the weekend but we are still husteling, i started again with the bug fixing, 
++ 
 
+19.01.2025*doing this from memory for further info look at entire 21.01.2025*
++ actually managed to fix the loading problem and the inventory bug
++ took me only a whole afternoon
 
-19.01.2025
-
-20.01.2025
+20.01.2025*doing this from memory for further info look at entire 21.01.2025*
++ i started implementing my breeding logic, and got he placment down i guess,#
++ then florian helped me and now its working again,
++ still have do do some make up things but i am rather gratful to florian,
++ did some pixel art as wel
 
 21.02.2025
++ so I started to try and implement the pokedex logic, i decided to call it animal archive, because copyright I guess
++ i asked lukas for help and he gave me a starting point again, I started implementing and got the consolelog to work but not the actuall pop up
++ Lukas came to my help again and together we figured it out, I just have to do the styling and so on
++ I was feed up with programming again and decided to work on my start screen which turns out was a stupid Idea, because..
++ MY LAPTOP DECIDED TO TURN OF AND NOTHING WAS SAVED😭
++ so thats why my entries in github are from memory and my whole progress in my tileset which was almost finished is gone 😭
+  
