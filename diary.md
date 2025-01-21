@@ -20,4 +20,18 @@
 + so I startet with my pixel art, and started doing my own tileset
 + After that Lukas helped me with the inventory and gave me an idea how to do it easier
 + The animals are now teleporting from there original placement to the inventorybar and are not stacking over each other but getting placed next to each other
-+ 
+
+17.01.2025
++ I sarted to try with the breeding machine logic but i got fustrated and started bug fixing, because sometimes my screen just would load, but i again failed
++ so I descided to continue with my pixel rate, i am still trying to make my own tile set for an easier map/ canvas and boarders
++ i went home early to day because somehow everything I try failed
+
+18.01.2025
++Its the weekend but we are still husteling, i started again with the bug fixing, 
+
+
+19.01.2025
+
+20.01.2025
+
+21.02.2025
