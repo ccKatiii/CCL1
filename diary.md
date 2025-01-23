@@ -56,6 +56,7 @@
 + So I started implementing my ending Condition and my end screen
 + at home I did the arte for Startscreen, Endscreen, and the animalsGif
 
-  23.01.2025
-  +
+23.01.2025
+  + First I implemented the sprite sheets for the animals so that they are animated
+  + now I have to draw the mixed Animals gifs and implement the gif functionallity 
   
