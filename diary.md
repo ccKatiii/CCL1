@@ -61,4 +61,5 @@
   + now I have to draw the mixed Animals gifs and implement the gif functionallity
   + somehow the gif didn't work for the mixed animals
   + I started fixining the inventroysizes and ajusted the sizes for the correct sprites
+  + after that florian sent me the code for the inventory logic and now there is only a few little things left
   
