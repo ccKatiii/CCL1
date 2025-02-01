@@ -1,8 +1,7 @@
-# 🎮 **Game Title** 
+#Animal Alchemy 
 
-> **Short Pitch**: A brief and catchy description of your game. Highlight the concept, genre, and key features.
-> 
-> *Example:* "Explore an alien planet in this retro-inspired platformer where gravity is your greatest ally—or enemy!"
+> **Short Pitch**: A
+> The gods are forging a new world, but they need your help! As their favourite angel, you are sent to Earth on a sacred mission. Create new creatures by combining the animals that already roam the land. Discover, experiment, and fill the grand archive with every possible species. Only then can you return home. Hurry and prove your worth to the gods!
 
 ---
 
