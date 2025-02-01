@@ -60,7 +60,7 @@ Below are the sprites used to create characters and objects in the game:
 </div>
 <div style="text-align: center;">
   <img src="spooky128.png" alt="Enemy Spritesheet" width="500">
-  <p>*Figure 8: tortoiseshell cat called Spooky*</p>
+  <p>*Figure 8: Tortoiseshell cat called Spooky*</p>
 </div>
 
 ---
