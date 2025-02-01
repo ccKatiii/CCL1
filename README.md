@@ -22,7 +22,7 @@
 
 ### Menu and UI:
 <div style="text-align: center;">
-  <img src="startScreen.png" alt="Menu UI Screenshot" width="600">
+  <img src="stratScreen.png" alt="Menu UI Screenshot" width="600">
   <p>*Figure 2: Startscreen*</p>
 </div>
 
