@@ -27,7 +27,7 @@
 </div>
 
 <div style="text-align: center;">
-  <img src="endScreen.png" alt="Menu UI Screenshot" width="600">
+  <img src="endScreen" alt="Menu UI Screenshot" width="600">
   <p>*Figure 3: Endscreen with retry button*</p>
 </div>
 
