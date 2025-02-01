@@ -22,12 +22,12 @@
 
 ### Menu and UI:
 <div style="text-align: center;">
-  <img src="startScreen.png" alt="Menu UI Screenshot" width="600">
+  <img src="" alt="Menu UI Screenshot" width="600">
   <p>*Figure 2: Startscreen*</p>
 </div>
 
 <div style="text-align: center;">
-  <img src="endScreen.png" alt="Menu UI Screenshot" width="600">
+  <img src="" alt="Menu UI Screenshot" width="600">
   <p>*Figure 3: Endscreen with retry button*</p>
 </div>
 
