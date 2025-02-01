@@ -30,6 +30,10 @@
   <img src="endScreen.png" alt="Menu UI Screenshot" width="600">
   <p>*Figure 3: Endscreen with retry button*</p>
 </div>
+<div style="text-align: center;">
+  <img src="archive.png" alt="Menu UI Screenshot" width="600">
+  <p>*Figure 4: Archive to look up the base/mixed animals*</p>
+</div>
 
 ---
 
@@ -39,7 +43,7 @@ Below are the sprites used to create characters and objects in the game:
 ### Player Character:
 <div style="text-align: center;">
   <img src="main.png" alt="Player Spritesheet" width="600">
-  <p>*Figure 4: Player character animations.*</p>
+  <p>*Figure 5: Player character animations.*</p>
   <p>*In the game it is not that blurred *</p>
 </div>
 
@@ -48,35 +52,35 @@ Below are the sprites used to create characters and objects in the game:
 ### Animals:
 <div style="text-align: center;">
   <img src="chicken128.png" alt="Enemy Spritesheet" width="500">
-  <p>*Figure 5: Chicken*</p>
+  <p>*Figure 6: Chicken*</p>
 </div>
 <div style="text-align: center;">
   <img src="ferrox128.png" alt="Enemy Spritesheet" width="500">
-  <p>*Figure 6: Black cat called Ferrox.*</p>
+  <p>*Figure 7: Black cat called Ferrox.*</p>
 </div>
 <div style="text-align: center;">
   <img src="fish128.png" alt="Enemy Spritesheet" width="500">
-  <p>*Figure 7: Fish.*</p>
+  <p>*Figure 8: Fish.*</p>
 </div>
 <div style="text-align: center;">
   <img src="spooky128.png" alt="Enemy Spritesheet" width="500">
-  <p>*Figure 8: Tortoiseshell cat called Spooky*</p>
+  <p>*Figure 9: Tortoiseshell cat called Spooky*</p>
 </div>
 
 ---
 ### Mixed Animals:
 <div style="text-align: center;">
   <img src="catFish128.png" alt="Enemy Spritesheet" width="500">
-  <p>*Figure 9: caish, fiat or cat-fish*</p>
+  <p>*Figure 10: caish, fiat or cat-fish*</p>
 </div>
 <div style="text-align: center;">
   <img src="chickenCat128.png" alt="Enemy Spritesheet" width="500">
-  <p>*Figure 10: Cacken, Chit, or chicken-cat*</p>
+  <p>*Figure 11: Cacken, Chit, or chicken-cat*</p>
 </div>
 
 <div style="text-align: center;">
   <img src="fishChicken128.png" alt="Enemy Spritesheet" width="500">
-  <p>*Figure 11: fishen (lol), chish or fish-chicken*</p>
+  <p>*Figure 12: fishen (lol), chish or fish-chicken*</p>
 </div>
 
 ---
