@@ -40,6 +40,7 @@ Below are the sprites used to create characters and objects in the game:
 <div style="text-align: center;">
   <img src="main.png" alt="Player Spritesheet" width="600">
   <p>*Figure 4: Player character animations.*</p>
+  <p>*In the game it is not that blurred *</p>
 </div>
 
 ---
