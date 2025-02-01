@@ -38,20 +38,47 @@ Below are the sprites used to create characters and objects in the game:
 
 ### Player Character:
 <div style="text-align: center;">
-  <img src="playersheet.png" alt="Player Spritesheet" width="500">
+  <img src="main.png" alt="Player Spritesheet" width="600">
   <p>*Figure 3: Player character animations.*</p>
 </div>
 
 ---
 
-### Enemies and NPCs:
+### Animals:
 <div style="text-align: center;">
-  <img src="enemysheet.png" alt="Enemy Spritesheet" width="500">
-  <p>*Figure 4: Enemy animations.*</p>
+  <img src="chicken128.png" alt="Enemy Spritesheet" width="500">
+  <p>*Figure 4: Chicken*</p>
+</div>
+<div style="text-align: center;">
+  <img src="ferrox128.png" alt="Enemy Spritesheet" width="500">
+  <p>*Figure 5: Black cat called Ferrox.*</p>
+</div>
+<div style="text-align: center;">
+  <img src="fish128.png" alt="Enemy Spritesheet" width="500">
+  <p>*Figure 6: Fish.*</p>
+</div>
+<div style="text-align: center;">
+  <img src="spooky128.png" alt="Enemy Spritesheet" width="500">
+  <p>*Figure 7: tortoiseshell cat called Spooky*</p>
 </div>
 
 ---
+### Mixed Animals:
+<div style="text-align: center;">
+  <img src="catFish128.png" alt="Enemy Spritesheet" width="500">
+  <p>*Figure 8: caish, fiat or cat-fish*</p>
+</div>
+<div style="text-align: center;">
+  <img src="chickenCat128.png" alt="Enemy Spritesheet" width="500">
+  <p>*Figure 9: Cacken, Chit, or chicken-cat*</p>
+</div>
 
+<div style="text-align: center;">
+  <img src="fishChicken128.png" alt="Enemy Spritesheet" width="500">
+  <p>*Figure 4: fishen (lol), chish or fis-chicken*</p>
+</div>
+
+---
 ## ✍️ **Reflection**
 
 ### What went well:
