@@ -76,7 +76,7 @@ Below are the sprites used to create characters and objects in the game:
 
 <div style="text-align: center;">
   <img src="fishChicken128.png" alt="Enemy Spritesheet" width="500">
-  <p>*Figure 11: fishen (lol), chish or fis-chicken*</p>
+  <p>*Figure 11: fishen (lol), chish or fish-chicken*</p>
 </div>
 
 ---
