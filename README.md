@@ -87,13 +87,14 @@ Below are the sprites used to create characters and objects in the game:
 ## ✍️ **Reflection**
 
 ### What went well:
-- **Creative Design:** The theme and style came together seamlessly, and the sprites were fun to design.
-- **Core Mechanics:** The gravity-based gameplay worked better than expected and provided a unique challenge.
+- Bringing my idea to the real world and implementing many (for me) very complicated functions
+- recreating all the pixel art after losing everything (and it still looks good)
 
 ### Challenges:
-- **Time Constraints:** Implementing all the features we envisioned wasn’t possible due to the limited timeframe.
-- **Bug Fixes:** Handling collisions and edge cases for gravity mechanics was tricky.
+- overestimating my skill and therefore having to cut out many features I planned to incorporate (of course also due to the short time period)
+- linking images and everything else correctly. also getting my ideas of functions to actually work
+- asking for help and not feeling bad about it, at first I was extremely hesitant to ask for help, but my friends convinced me and it made everything easier
 
 ### Lessons Learned:
-- **Prototyping Matters:** Testing early prototypes helped refine the core mechanics quickly.
-- **Keep it Simple:** Focusing on one unique mechanic instead of multiple features made the game more polished.
+- do not always choose the "cool" idea over the simple one (You are making your own life harder)
+- You still have to challenge yourself, because if not you can not learn from the experience (I am happy that I chose the "cool" but complicated idea)
